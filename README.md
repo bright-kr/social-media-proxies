@@ -1,6 +1,6 @@
 # Bright Data의 Social Media プロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/solutions/social-media-proxy) 
+[![Promo](https://github.com/bright-kr/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/solutions/social-media-proxy) 
 
 ## Overview
 정밀한 타겟팅, 비교할 수 없는 안정성, 빠른 リクエスト/レスポンス 시간을 제공하도록 설계된 Bright Data의 [Social Media プロキシ](https://brightdata.co.kr/solutions/social-media-proxy)로 매끄러운 スクレイピング을 경험해 보십시오.
